@@ -1,1 +1,1 @@
-# Exercism-Java
+# Exercism
